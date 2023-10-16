@@ -23,7 +23,7 @@
   height: 100%;
 }
 
-.kananNama{
+.kananNama {
   width: 60%;
   display: flex;
   justify-content: center;
@@ -33,53 +33,54 @@
   font-size: 20px;
 }
 
-.gabungan2{
+.gabungan2 {
   width: 100%;
   /* border: 5px solid red; */
   display: flex;
 }
 
-.kiriInfo{
+.kiriInfo {
   border: 3px solid orange;
   width: 40%;
 }
 
-.gender{
+.gender {
   border: 3px solid rgb(43, 94, 161);
   font-size: 16px;
 }
 
-.karir{
+.karir {
   border: 3px solid rgb(128, 78, 113);
   font-size: 16px;
 }
 
-.kananInfo{
+.kananInfo {
   border: 5px solid black;
   width: 60%;
   font-size: 16px;
 }
 
-.gabungan3{
+.gabungan3 {
   width: 100%;
   /* border: 5px solid red; */
   display: flex;
 }
 
-.organisasi{
+.organisasi {
   margin-top: 5px;
 }
 
-.organisasi p{
+.organisasi p {
   margin-left: 2px;
 }
 
 .center {
   text-align: center;
-  margin-top: 20px; /* Atur jarak dari atas sesuai kebutuhan Anda */
+  margin-top: 20px;
+  /* Atur jarak dari atas sesuai kebutuhan Anda */
 }
 
-.center button{
+.center button {
   width: 200px;
   height: 70px;
   font-size: 18px;
